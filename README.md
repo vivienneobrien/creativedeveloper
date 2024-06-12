@@ -1,2 +1,1 @@
-# creativedeveloper
-Practicing with Text Geometry using Three.js
+# Having fun with Geometry
